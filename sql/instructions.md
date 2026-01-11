@@ -1,0 +1,1 @@
+> Die Tabelle ScrapReason enthält Gründe für Stornos und Rückgaben. Welches Produkt wurde am häufigsten zurückgegeben und aus welchem Grund?

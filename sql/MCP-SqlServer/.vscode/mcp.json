@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"FF-Mcp-Sql": {
+			"type": "stdio",
+			"command": "dotnet",
+			"args": [
+				"run",
+				"--project",
+				"./Mcp.SqlServer.csproj"
+			]
+		}
+	},
+	"inputs": []
+}

@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"FF-Mcp-WeatherForecast": {
+			"type": "stdio",
+			"command": "dotnet",
+			"args": [
+				"run",
+				"--project",
+				"./Mcp.WeatherForecast.Server/Mcp.WeatherForecast.Server.csproj"
+			]
+		}
+	},
+	"inputs": []
+}

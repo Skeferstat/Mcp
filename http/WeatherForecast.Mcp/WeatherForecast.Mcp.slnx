@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WeatherForecast.Mcp.ApiService/WeatherForecast.Mcp.ApiService.csproj" />
+  <Project Path="WeatherForecast.Mcp.AppHost/WeatherForecast.Mcp.AppHost.csproj" />
+  <Project Path="WeatherForecast.Mcp.Server/WeatherForecast.Mcp.Server.csproj" />
+  <Project Path="WeatherForecast.Mcp.ServiceDefaults/WeatherForecast.Mcp.ServiceDefaults.csproj" />
+</Solution>
